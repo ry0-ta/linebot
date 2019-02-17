@@ -1,5 +1,1 @@
 web: node index.js
-
-heroku config:set LINE_CHANNEL_ID=1647272255
-heroku config:set LINE_CHANNEL_SECRET=8e6720a5bfeea2591916d6661c97fcef
-heroku config:set LINE_ACCESS_TOKEN=MntOB8QHkRSAMlFKfN65rLaSX0MyHiG+A3G+0rDeAE/qpyuknSlP4w4nhU3hfh7SqQQtdhqnmt+eWldTpnIXOFffSOdCmuH+eInjNKAkNDKlJYyzITTJZWYfL7LDQtsn4nIQ4UGa7KTD1VM1XFacoAdB04t89/1O/w1cDnyilFU=
